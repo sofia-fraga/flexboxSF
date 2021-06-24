@@ -1,0 +1,53 @@
+/*header*/
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color:#222222;
+    color:blanchedalmond;
+    width: 1024px;
+    height: 100px;
+}
+/*header*/
+/*main*/
+main{
+    background-color: #E5E5E5;
+    width: 1024px;
+}
+.containermain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.podio {
+    width: 491px;
+    height: 350px;
+    background-color: #FFFFFF;
+}
+p{
+    color:red;
+    font-family: Roboto;
+
+}
+#logo{
+    height: 80px;
+    width: 212px;
+}
+
+/*main*/
+/*footer*/
+footer{
+  
+    background-color: #222222;
+    color:blanchedalmond;
+    width: 1024px;
+    height: 150px;
+}
+.foot{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+/*footer*/
